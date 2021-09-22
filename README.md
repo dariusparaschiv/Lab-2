@@ -20,7 +20,7 @@ Scrieți un program care:
     - Funcția principală: `get_age_in_days(birthday) -> int`
     - Funcția de test: `test_get_age_in_days()`
      
-3. Dându-se numărul natural `n`, determină numerele prime `p1` si `p2` astfel încât `n = p1 + p2` (verificarea conjecturii lui Goldbach). Pentru ce fel de `n` există soluție? 
+3. Dându-se numărul natural `n`, determină numerele prime `p1` si `p2` astfel încât `n = p1 + p2` (verificarea conjecturii lui Goldbach), `p1` minim și `p2` maxim. Pentru ce fel de `n` există soluție? 
     - Funcția principală: `get_goldbach(n) -> (int, int)`
     - Funcția de test: `test_get_goldbach()`
      
