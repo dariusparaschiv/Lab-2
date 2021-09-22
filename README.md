@@ -37,7 +37,7 @@ Scrieți un program care:
     - Funcția de test: `test_is_superprime()`
 
 	
-7. Determină dacă un număr este antipalindrom: un număr este antipalindrom dacă oricare două cifre egal depărtate de extremități sunt diferite. De exemplu: `2783` este antipalindrom, iar `2773` nu este.
+7. Determină dacă un număr este antipalindrom: un număr este antipalindrom dacă oricare două cifre egal depărtate de extremități sunt diferite (excepție făcând cifra din mijloc dacă avem un număr impar de cifre). De exemplu: `2783` este antipalindrom, iar `2773` nu este.
     - Funcția principală: `is_antipalindrome(n) -> bool`
     - Funcția de test: `test_is_antipalindrome()`
 
