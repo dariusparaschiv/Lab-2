@@ -67,5 +67,5 @@ Scrieți un program care:
     - Funcția de test: `test_get_temp()`
 
 14. Calculează CMMMC al `n` numere date.
-    - Funcția principală: `get_cmmmc(numbers: lst[int]) -> int`
+    - Funcția principală: `get_cmmmc(numbers: list[int]) -> int`
     - Funcția de test: `test_get_cmmmc()`
