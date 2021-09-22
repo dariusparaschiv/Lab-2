@@ -24,7 +24,7 @@ Scrieți un program care:
     - Funcția principală: `get_goldbach(n) -> Optional[(int, int)]`
     - Funcția de test: `test_get_goldbach()`
      
-4. Execută un număr dat de pași pentru a calcula radicalul unui număr dat folosind metoda lui Newton și afișează aproximarea obținută.
+4. Execută un număr dat de pași pentru a calcula radicalul unui număr dat folosind metoda lui Newton cu `x0=2` și afișează aproximarea obținută.
     - Funcția principală: `get_newton_sqrt(n, steps) -> float`
     - Funcția de test: `test_get_newton_sqrt()`
     
